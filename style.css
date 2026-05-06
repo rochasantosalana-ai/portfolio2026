@@ -1,3 +1,7 @@
-body(
-    background;
-)
+body{
+    background: #000000;
+    color: #f6f6f6;
+}
+strong, a {
+    color: #22d4fd;
+}
